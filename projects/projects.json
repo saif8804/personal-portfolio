@@ -1,0 +1,54 @@
+[
+  {
+    "name": "BharatDwelling",
+    "desc": "Developed BharatDwelling Website using React.js, Express.js and Node.js for Property rental purpose.",
+    "image": "bharatDwelling.png",
+    "category": "website",
+    "links": {
+      "view": "https://indianweather.kesug.com/",
+      "code": "https://github.com/Azam8808/Weather-app"
+    }
+  },
+  {
+    "name": "WeatherApp",
+    "desc": "Developed WeatherApp using HTML,CSS, and JavaScript,integrating APIs for real-time weather updates.",
+    "image": "weather",
+    "category": "website",
+    "links": {
+      "view": "https://indianweather.kesug.com/",
+      "code": "https://github.com/Azam8808/Weather-app"
+    }
+  },
+  {
+    "name": "NewsApp",
+    "desc": "Developed a responsive of a dynamic News-App website, delivering real-time news updates to users.",
+    "image": "news",
+    "category": "website",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Azam8808/News-App"
+    }
+  },
+  
+  {
+    "name": "FoodHub",
+    "desc": "Searching food recipes by name using HTML,CSS,ReactJs,React-router,MealDB API to fetch and displaydetailed recipes.",
+    "image": "foodhub",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Azam8808/News-App"
+    }
+  },
+  
+  {
+    "name": "Tic-Tac-Toe",
+    "desc": " Developed a game using JavaScript and HTML and CSS to design user interface.",
+    "image": "tic-tac-toe",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Azam8808/tic-tac"
+    }
+  }
+]
